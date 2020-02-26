@@ -1,0 +1,46 @@
+Judge prints: 5
+Test Case #1:
+Judge prints: 0 10
+Judge prints: 10
+Judge reads: 5
+Judge prints: TOO_BIG
+Judge reads: 2
+Judge prints: TOO_SMALL
+Judge reads: 3
+Judge prints: CORRECT
+Test Case #2:
+Judge prints: 0 10
+Judge prints: 10
+Judge reads: 5
+Judge prints: TOO_SMALL
+Judge reads: 8
+Judge prints: TOO_BIG
+Judge reads: 6
+Judge prints: TOO_SMALL
+Judge reads: 7
+Judge prints: CORRECT
+Test Case #3:
+Judge prints: 0 10
+Judge prints: 10
+Judge reads: 5
+Judge prints: TOO_SMALL
+Judge reads: 8
+Judge prints: CORRECT
+Test Case #4:
+Judge prints: 0 10
+Judge prints: 10
+Judge reads: 5
+Judge prints: TOO_BIG
+Judge reads: 2
+Judge prints: TOO_BIG
+Judge reads: 1
+Judge prints: CORRECT
+Test Case #5:
+Judge prints: 0 10
+Judge prints: 10
+Judge reads: 5
+Judge prints: CORRECT
+Waiting for your code to finish...
+Your code finishes with exit status 0.
+Your code doesn't have stderr output.
+Congratulations! All test cases passed :)
